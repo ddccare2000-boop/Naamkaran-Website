@@ -1,0 +1,58 @@
+body {
+    margin: 0;
+    font-family: 'Noto Serif Devanagari', serif;
+    background: linear-gradient(135deg, #ffd6ec, #fff0f8);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+}
+
+.card {
+    background: white;
+    width: 90%;
+    max-width: 750px;
+    padding: 40px;
+    border-radius: 25px;
+    border: 8px solid #d4af37;
+    box-shadow: 0 0 40px rgba(212, 175, 55, 0.4);
+    text-align: center;
+}
+
+h1 {
+    color: #c2185b;
+}
+
+.ganesh {
+    color: #b8860b;
+    font-weight: bold;
+}
+
+.shlok {
+    color: #8b0000;
+    margin-bottom: 20px;
+}
+
+h2 {
+    color: #b8860b;
+}
+
+.content {
+    font-size: 18px;
+    line-height: 1.8;
+    margin: 25px 0;
+}
+
+.event {
+    background: #fff0f8;
+    padding: 20px;
+    border-radius: 15px;
+    font-size: 18px;
+    margin-top: 20px;
+}
+
+.footer {
+    margin-top: 30px;
+    font-size: 17px;
+    color: #880e4f;
+}
